@@ -10,7 +10,7 @@ def run(
     catalog_name: str = "dataeng",
     schema_name: str = "dataeng",
     source_table_name: str = "schema_evo_merge_schema_t3",
-    target_view_name: str = "schema_evo_merge_schema_demo",
+    target_view_name: str = "schema_evo_merge_schema_demo9",
     operation: str = "create",
     dryrun: bool = False
 ):
